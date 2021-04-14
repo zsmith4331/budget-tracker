@@ -8,6 +8,16 @@ button, input {
   font-family: Arial;
 }
 
+#add-btn {
+  background-color: green;
+  color: white
+}
+
+#sub-btn {
+  background-color: red;
+  color: white;
+}
+
 table {
   width: 100%;
 }
